@@ -1,3 +1,4 @@
 = Praxisbezug
-== Dokumentationszustand von Finrep
+== Projektbeschreibung von Finrep
+== Bewertung bestehender Dokumentation und Dokumentationspraktiken
 == Handlungsempfehlung

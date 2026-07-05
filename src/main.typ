@@ -3,14 +3,16 @@
 
 #show: transfer_paper.with(
 	language: "de",
-  "1",
-	"12345",
-	"Ein wundervoller und deskriptiver, aber nicht zu langer Titel, aber immerhin füllt er zwei Zeilen",
-	"Angewandte Informatik, A22b",
+  "6",
+	"12315",
+	"Agile Dokumentation: Wie viel Dokumentation ist sinnvoll?",
+	"Angewandte Informatik, A22a",
 	appendix_content: include "chapters/99_appendix.typ",
 )
 
 // --- Include content here ---
-#include "chapters/01_chapter.typ"
-#include "chapters/02_chapter.typ"
-#include "chapters/03_chapter.typ"
+#include "chapters/01_einleitung.typ"
+#include "chapters/02_theorie.typ"
+#include "chapters/03_abwaegung.typ"
+#include "chapters/04_praxisbezug.typ"
+#include "chapters/05_fazit.typ"
