@@ -2,7 +2,7 @@
 #import "components/transfer_paper.typ": transfer_paper
 
 #show: transfer_paper.with(
-	language: "en",
+	language: "de",
   "1",
 	"12345",
 	"Ein wundervoller und deskriptiver, aber nicht zu langer Titel, aber immerhin füllt er zwei Zeilen",
