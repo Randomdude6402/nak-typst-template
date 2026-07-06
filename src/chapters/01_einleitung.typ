@@ -1,4 +1,17 @@
 = Einleitung
 == Problemstellung
+In agilen Softwareprojekten steht die schnelle und flexible Entwicklung funktionsfähiger Software im Mittelpunkt. Anforderungen ändern sich häufig, Entwicklungszyklen sind kurz und Teams reagieren kontinuierlich auf neue fachliche oder technische Rahmenbedingungen. In diesem Umfeld wird Dokumentation häufig als Hinderniss wahrgenommen. Einerseits ist Dokumentation notwendig, um Wissen nachvollziehbar festzuhalten, die Einarbeitung neuer Mitarbeitender zu erleichtern und langfristige Wartbarkeit sicherzustellen. Andererseits kann ein zu hoher Dokumentationsaufwand Entwicklungszeit binden und dadurch den agilen Grundgedanken einer schnellen, iterativen Produktentwicklung beeinträchtigen.
+
+Dieser Konflikt zeigt sich insbesondere in laufenden Softwareprojekten, in denen bestehende Dokumentation über längere Zeit gewachsen ist oder unter Zeitdruck nur unvollständig gepflegt wurde. Wenn Dokumentation veraltet, unübersichtlich oder lückenhaft ist, kann dies zu erhöhtem Abstimmungsaufwand, Wissensverlust und Fehlern bei der Weiterentwicklung führen. Gleichzeitig ist es in agilen Projekten kaum sinnvoll, jede technische oder fachliche Entscheidung umfassend zu dokumentieren, da sich Inhalte durch neue Anforderungen schnell verändern können.
+
+Daraus ergibt sich die zentrale Herausforderung, einen angemessenen Dokumentationsumfang zu bestimmen. Dokumentation muss ausreichend Informationen bereitstellen, um Projektwissen zu sichern und die Entwicklung zu unterstützen. Gleichzeitig darf sie nicht zu einem Selbstzweck werden oder den Entwicklungsfortschritt unverhältnismäßig verlangsamen. Vor diesem Hintergrund stellt sich die Frage, wie viel Dokumentation in agilen Projekten sinnvoll ist und nach welchen Kriterien entschieden werden kann, welche Inhalte dokumentiert werden sollten.
 == Zielsetzung und Forschungsfrage
-== Aufbau der Transferleistung
+Ziel dieser Transferleistung ist es, den sinnvollen Umfang von Dokumentation in agilen Softwareprojekten theoretisch zu untersuchen und auf ein praktisches Beispiel anzuwenden. Dabei soll herausgearbeitet werden, welche Merkmale gute Projektdokumentation auszeichnen, welchen Nutzen sie für Entwicklungsteams bietet und wie Dokumentationsaufwand in agilen Arbeitsweisen angemessen eingeordnet werden kann.
+
+Der Praxisbezug erfolgt anhand des agilen Softwareprojekts Finrep. Dabei wird betrachtet, in welchem Zustand sich die bestehende Dokumentation befindet und welche Dokumentationspraktiken im Projekt erkennbar sind. Auf Basis der theoretischen Grundlagen sollen anschließend Bewertungskriterien abgeleitet werden, mit denen der bestehende Dokumentationsumfang eingeschätzt werden kann. Daraus werden Handlungsempfehlungen entwickelt, die zu einer besseren und gleichzeitig angemessenen Dokumentation beitragen sollen.
+
+Die zentrale Forschungsfrage dieser Transferleistung lautet daher:
+
+Wie viel Dokumentation ist in agilen Softwareprojekten sinnvoll, um Projektwissen nachhaltig zu sichern, ohne den Entwicklungsfortschritt unverhältnismäßig zu beeinträchtigen?
+
+Zur Beantwortung dieser Forschungsfrage werden sowohl theoretische Grundlagen agiler Softwareentwicklung und Projektdokumentation als auch praktische Beobachtungen aus dem Projekt Finrep herangezogen. Der Fokus liegt dabei nicht auf einer möglichst umfangreichen Dokumentation, sondern auf der Frage, welche Dokumentation tatsächlich hilfreich, aktuell und nutzbar ist.
