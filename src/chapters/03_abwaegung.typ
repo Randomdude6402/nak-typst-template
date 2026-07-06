@@ -1,3 +1,3 @@
 = Bestimmung eines sinnvollen Dokumentationsumfang
-== Bewertungskriterien eines sinvollen Umfangs
+== Bewertungskriterien eines sinnvollen Umfangs
 == Zeitlicher und organisatorischer Umgang mit Dokumentation
