@@ -1,4 +1,4 @@
-= Theoretische Grundlagen von Dokumentation in agilen Projekten
+= Theoretische Grundlagen von Dokumentation #linebreak() in agilen Projekten
 == Grundlagen agiler Softwareentwicklung
 == Merkmale guter Projektdokumentation
 == Vorteile guter Projektdokumentation
