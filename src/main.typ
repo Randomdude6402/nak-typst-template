@@ -7,7 +7,7 @@
 	"12315",
 	"Agile Dokumentation: Wie viel Dokumentation ist sinnvoll?",
 	"Angewandte Informatik, A22a",
-	appendix_content: include "chapters/99_appendix.typ",
+	//appendix_content: include "chapters/99_appendix.typ",
 )
 
 // --- Include content here ---
