@@ -1,3 +1,7 @@
 = Fazit
 == Beantwortung der Forschungsfrage
+n agilen Softwareprojekten ist so viel Dokumentation sinnvoll, wie zur Sicherung von Projektwissen sowie zur Unterstützung von Entwicklung, Wartung und Betrieb erforderlich ist. Unnötige, redundante oder nicht dauerhaft pflegbare Inhalte sollten dagegen vermieden werden. Ein fester zeitlicher Anteil ist daher nicht zweckmäßig; der Dokumentationsaufwand sollte abhängig von Komplexität, Kritikalität, Lebensdauer und externen Abhängigkeiten festgelegt werden.
+
+Für Finrep ist der bestehende Dokumentationsumfang aufgrund der hohen fachlichen und technischen Komplexität grundsätzlich angemessen. Verbesserungsbedarf besteht weniger bei der Menge als bei der Qualität, insbesondere hinsichtlich der In-Code-Dokumentation, der langfristigen Aktualität sowie einer einheitlichen Struktur und Sprache.
 == Ausblick
+Zukünftig sollten die empfohlenen Maßnahmen schrittweise in den Entwicklungsprozess integriert werden. Dazu gehören insbesondere die gezielte Dokumentation kritischer Codebereiche, die organisatorische Verankerung der Dokumentationspflege und die automatische Aktualisierung technischer Übersichten. Anschließend kann überprüft werden, ob sich dadurch beispielsweise Einarbeitung, Wartung und Fehleranalyse messbar verbessern.
